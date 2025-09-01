@@ -57,9 +57,9 @@ Sample Prediction – Predict a test sample and compare predicted vs. actual cla
 
 ## PROGRAM
 
-### Name: HEMAVATHY S
+### Name: RADHIMEENA M
 
-### Register Number:212223230076
+### Register Number:212223040159
 
 ```
 import torch
